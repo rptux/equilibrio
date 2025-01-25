@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/equilibrio/static/css/main.61493d61.css",
-    "main.js": "/equilibrio/static/js/main.0579d1df.js",
+    "main.js": "/equilibrio/static/js/main.33fa1717.js",
     "static/js/952.e5cf0c87.chunk.js": "/equilibrio/static/js/952.e5cf0c87.chunk.js",
     "static/js/488.90ef3beb.chunk.js": "/equilibrio/static/js/488.90ef3beb.chunk.js",
     "index.html": "/equilibrio/index.html",
     "main.61493d61.css.map": "/equilibrio/static/css/main.61493d61.css.map",
-    "main.0579d1df.js.map": "/equilibrio/static/js/main.0579d1df.js.map",
+    "main.33fa1717.js.map": "/equilibrio/static/js/main.33fa1717.js.map",
     "952.e5cf0c87.chunk.js.map": "/equilibrio/static/js/952.e5cf0c87.chunk.js.map",
     "488.90ef3beb.chunk.js.map": "/equilibrio/static/js/488.90ef3beb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.61493d61.css",
-    "static/js/main.0579d1df.js"
+    "static/js/main.33fa1717.js"
   ]
 }
